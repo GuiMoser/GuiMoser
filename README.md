@@ -2,7 +2,7 @@ Olá! Meu nome é Guilherme Moser. Sou um entusiasta de ciência de dados em bus
 
 Atualmente, estou participando de um bootcamp de ciência de dados, aprimorando minhas habilidades em Python e explorando conceitos fundamentais de ciência de dados, como manipulação de dados, visualização e aprendizado de máquina.
 
-Habilidades
+Hard Skills
 - Inglês (Avançado)
 - Python (Intermediário)
 - Análise de Dados
