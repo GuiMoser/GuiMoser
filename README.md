@@ -1,4 +1,5 @@
 Olá! Meu nome é Guilherme Moser. Sou um entusiasta de ciência de dados em busca de oportunidades como desenvolvedor júnior na área.
+
 Atualmente, estou participando de um bootcamp de ciência de dados, aprimorando minhas habilidades em Python e explorando conceitos fundamentais de ciência de dados, como manipulação de dados, visualização e aprendizado de máquina.
 
 Habilidades
