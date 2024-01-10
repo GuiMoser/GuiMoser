@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guilherme Moser </h1>
 
-- 🌱 I’m currently learning: **Data Science**
+- 🌱 I’m currently learning: **Data Science.**
 
-- 💬 Ask me about: **Python, Data Science, Data Analysis, Machine Learning**
+- 💬 Ask me about: **Python, Data Science, Data Analysis, Machine Learning.**
 
 - 📫 How to reach me: **mmatias.guilherme@gmail.com**
 
