@@ -1,21 +1,20 @@
-Olá! Meu nome é Guilherme Moser. Sou um entusiasta de ciência de dados em busca de oportunidades como desenvolvedor júnior na área.
+<h1 align="center">Hi 👋, I'm Guilherme Moser </h1>
 
-Atualmente, estou participando de um bootcamp de ciência de dados, aprimorando minhas habilidades em Python e explorando conceitos fundamentais de ciência de dados, como manipulação de dados, visualização e aprendizado de máquina.
+- 🌱 I’m currently learning: **Data Science**
 
-Hard Skills
-- Inglês (Avançado)
-- Python (Intermediário)
-- Análise de Dados
-- Visualização de Dados
-- Machine Learning (Em aprendizado contínuo)
+- 💬 Ask me about: **Python, Data Science, Data Analysis, Machine Learning**
 
-Soft Skills
-- Trabalho em equipe
-- Gestão do Tempo
-- Resolução de Problemas
+- 📫 How to reach me: **mmatias.guilherme@gmail.com**
 
-Contato
-- LinkedIn: https://www.linkedin.com/in/guilherme-moser-252711259/
-- Email: mmatias.guilherme@gmail.com
+- ⚡ **I'm currently doing a bootcamp [TripleTen](https://tripleten.com.br) to go deeper into data science.**
 
-Estou animado para colaborar em projetos de ciência de dados e aprender continuamente! Se você está em busca de alguém dedicado e entusiasmado, não hesite em entrar em contato.
+_______________________________________________
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/Gui-Moser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/Gui-Moser/" height="30" width="40" /></a>
+</p>
+
+_______________________________________________
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
