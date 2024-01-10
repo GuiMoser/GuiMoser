@@ -14,7 +14,7 @@ Soft Skills
 - Resolução de Problemas
 
 Contato
-- LinkedIn: (https://www.linkedin.com/in/guilherme-moser-252711259/)https://www.linkedin.com/in/guilherme-moser-252711259/
+- LinkedIn: https://www.linkedin.com/in/guilherme-moser-252711259/
 - Email: mmatias.guilherme@gmail.com
 
 Estou animado para colaborar em projetos de ciência de dados e aprender continuamente! Se você está em busca de alguém dedicado e entusiasmado, não hesite em entrar em contato.
