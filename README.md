@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **mmatias.guilherme@gmail.com**
 
-- ⚡ **I'm currently doing a bootcamp [TripleTen](https://tripleten.com.br) to go deeper into data science.**
+- ⚡ **I'm currently doing a bootcamp in [TripleTen](https://tripleten.com.br) to go deeper into data science.**
 
 _______________________________________________
 
