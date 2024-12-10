@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme Moser</h1>
 <h3 align="center">A machine learning and data enthusiast</h3>
 
+I am dedicated to using Python, Pandas, SQL, Scikit-Learn, Seaborn, Scipy and a lot of tools to solve complex problems. 
+With a keen interest in extracting insights from data, my goal is to drive innovation and efficiency across various projects.
+
 - 🌱 I’m currently learning: **Deep Learning**
 
 - 💬 Ask me about: **Machine Learning, Data Science, Data Analysis**
