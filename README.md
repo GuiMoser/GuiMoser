@@ -4,7 +4,7 @@
 I am Brazilian with an advanced level of English. I graduated in Data Science from the tripleten bootcamp. 
 Now I am dedicated to using Python, Pandas, SQL, Scikit-Learn, Seaborn, Scipy and a lot of ohters libs and tools to solve complex problems. 
 With a keen interest in extracting insights from data, my goal is to drive innovation and efficiency across various projects.
-I am excited to apply my knowledge and dedication to real projects.
+I am excited to apply my knowledge and dedication to real projects, feel free to contact me.
 
 - 🌱 I’m currently learning: **Deep Learning**
 
