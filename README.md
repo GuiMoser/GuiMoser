@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guilherme Moser</h1>
 <h3 align="center">A machine learning and data enthusiast</h3>
 
-I am dedicated to using Python, Pandas, SQL, Scikit-Learn, Seaborn, Scipy and a lot of tools to solve complex problems. 
+I am Brazilian with an advanced level of English. I graduated in Data Science from the tripleten bootcamp. 
+Now I am dedicated to using Python, Pandas, SQL, Scikit-Learn, Seaborn, Scipy and a lot of ohters libs and tools to solve complex problems. 
 With a keen interest in extracting insights from data, my goal is to drive innovation and efficiency across various projects.
+I am excited to apply my knowledge and dedication to real projects.
 
 - 🌱 I’m currently learning: **Deep Learning**
 
